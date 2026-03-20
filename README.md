@@ -3,6 +3,7 @@ MHCBind processes peptide and MHC sequences, extracts features, and trains a dee
 
 
 Follow the steps below in order to run the complete pipeline:
+
 -->Step 1: Generate Contact Maps
    python train_scripts/contact_maps.py
 
