@@ -1,1 +1,23 @@
 
+# Python Compatibility: >= 3.8
+# Core Data Science
+numpy==1.24.4
+pandas==2.0.3
+scipy==1.10.1
+scikit-learn==1.3.2
+tqdm==4.66.1
+
+# Deep Learning (PyTorch Core)
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# PyTorch Geometric & Dependencies
+torch-cluster==1.6.3
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch-spline-conv==1.2.2
+torch-geometric==2.5.3
+
+# Specialized Models
+fair-esm==2.0.0
