@@ -1,6 +1,7 @@
 # MHCBind
 MHCBind is a deep learning pipeline for predicting peptide–MHC binding affinity for MHC Class I molecules. This project processes peptide and MHC sequences, extracts features, and trains a deep learning model using attention mechanisms to predict binding interactions.
 
+Our research paper is available as a preprint on bioRxiv: https://www.biorxiv.org/content/10.64898/2026.03.20.713120v1
 
 Follow the steps below in order to run the complete pipeline:
 
